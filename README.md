@@ -1,6 +1,6 @@
 ### Agente de Conversão de Moedas com IA
 
-Um agente conversacional em Python que utiliza a API do [Frankfurter](https://frankfurter.dev/pt/) para consultar taxas de câmbio em tempo real e responder perguntas em linguagem natural, utilizando a SDK oficial do Google GenAI (`google-genai`) com Function Calling
+Um agente conversacional em Python que utiliza a API do [Frankfurter](https://frankfurter.dev/pt/) para consultar taxas de câmbio e responder perguntas em linguagem natural, utilizando a SDK oficial do google genAI (`google-genai`) com Function Calling
 
 ### Como Executar
 
