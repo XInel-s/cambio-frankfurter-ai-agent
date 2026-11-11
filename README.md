@@ -5,15 +5,15 @@ Um agente conversacional em Python que utiliza a API do [Frankfurter](https://fr
 ### Como Executar
 
 #### 1. Instalar as dependências
-Certifique-se de ter o Python instalado e instale os pacotes necessários:
+as dependencias são Python e instale os pacotes necessários:
 ```bash
 pip install google-genai requests
 ```
-# no terminal fish
+### no terminal fish
 ```bash
 set -x GEMINI_API_KEY "sua_API_aqui" && python3 Conversor.py
 ```
-#no terminal bash
+### no terminal bash
 ```bash
 export GEMINI_API_KEY="sua_API_aqui" && python3 Conversor.py 
 ```
