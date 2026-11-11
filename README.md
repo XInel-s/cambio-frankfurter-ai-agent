@@ -2,9 +2,9 @@
 
 Um agente conversacional em Python que utiliza a API do [Frankfurter](https://frankfurter.dev/pt/) para consultar taxas de câmbio em tempo real e responder perguntas em linguagem natural, utilizando a SDK oficial do Google GenAI (`google-genai`) com Function Calling
 
-## Como Executar
+### Como Executar
 
-# 1. Instalar as dependências
+#### 1. Instalar as dependências
 Certifique-se de ter o Python instalado e instale os pacotes necessários:
 ```bash
 pip install google-genai requests
