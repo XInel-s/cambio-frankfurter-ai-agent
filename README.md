@@ -1,2 +1,19 @@
-# cambio-frankfurter-ai-agent
-Agente conversacional em Python com IA (Google Gemini SDK) e suporte a Function Calling para consulta de taxas de câmbio em tempo real usando a API Frankfurter.
+# Agente de Conversão de Moedas com IA
+
+Um agente conversacional em Python que utiliza a API do [Frankfurter](https://frankfurter.dev/pt/) para consultar taxas de câmbio em tempo real e responder perguntas em linguagem natural, utilizando a SDK oficial do Google GenAI (`google-genai`) com Function Calling
+
+# Como Executar
+
+# 1. Instalar as dependências
+Certifique-se de ter o Python instalado e instale os pacotes necessários:
+```bash
+pip install google-genai requests
+```
+# no terminal fish
+```bash
+set -x GEMINI_API_KEY "sua_API_aqui" && python3 Conversor.py
+```
+#no terminal bash
+```bash
+export GEMINI_API_KEY="sua_API_aqui" && python3 Conversor.py 
+```
